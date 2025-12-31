@@ -1,0 +1,16 @@
+{
+  "sliders": [
+    {
+      "image": "https://zubairsoft.com/quran_life/loadSliderImage/Hjj.png",
+      "action": "hajj"
+    },
+    {
+      "image": "https://zubairsoft.com/quran_life/loadSliderImage/Zakat.png",
+      "action": "zakat"
+    },
+    {
+      "image": "https://zubairsoft.com/quran_life/loadSliderImage/hadith.png",
+      "action": "hadith"
+    }
+  ]
+}
