@@ -1,20 +1,83 @@
 [
   {
     "id": 1,
-    "day": "শবে কদর",
-    "amol": "নফল নামাজ, দোয়া, ইস্তেগফার ও কোরআন তিলাওয়াত",
+    "day": "Kadir Gecesi",
+    "amol": "Nafile namaz, dua, istiğfar ve Kur’an tilaveti",
     "arabic": "اَللّٰهُمَّ اِنَّكَ عَفُوٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
-    "bangla": "হে আল্লাহ! তুমি ক্ষমাশীল, আমাকে ক্ষমা করো।",
-    "fazilat": "এই রাতে ইবাদত হাজার মাসের ইবাদতের চেয়ে উত্তম।",
-    "rules": "রমজানের শেষ ১০ রাতের বিজোড় রাতগুলোতে বেশি ইবাদত করবে।"
+    "bangla": "Allah’ım! Sen çok affedicisin, beni affet.",
+    "fazilat": "Bu gecedeki ibadet bin aydan hayırlıdır.",
+    "rules": "Ramazan’ın son on gününün tek gecelerinde ibadet artırılır."
   },
   {
     "id": 2,
-    "day": "শবে বরাত",
-    "amol": "নফল নামাজ, তওবা ও ইস্তিগফার",
-    "arabic": "أستغفر الله العظيم",
-    "bangla": "আমি মহান আল্লাহর নিকট ক্ষমা চাই।",
-    "fazilat": "এই রাতে আল্লাহ রহমত বর্ষণ করেন।",
-    "rules": "মাগরিবের পর থেকে ফজর পর্যন্ত দোয়া ও নামাজ করবে।"
+    "day": "Berat Gecesi",
+    "amol": "Nafile namaz, tövbe ve istiğfar",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+    "bangla": "Yüce Allah’tan bağışlanma dilerim.",
+    "fazilat": "Bu gecede Allah rahmetini bolca verir.",
+    "rules": "Akşamdan sabaha kadar ibadet ve dua edilir."
+  },
+  {
+    "id": 3,
+    "day": "Cuma Günü",
+    "amol": "Salavat getirmek, Kehf Suresi okumak ve dua",
+    "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ",
+    "bangla": "Allah’ım, Peygamberimiz Muhammed’e salât eyle.",
+    "fazilat": "Cuma günü duaların kabul edildiği özel bir vakit vardır.",
+    "rules": "İkindi ile akşam arasında dua artırılır."
+  },
+  {
+    "id": 4,
+    "day": "Ramazan Ayı",
+    "amol": "Oruç, teravih, Kur’an okuma ve sadaka",
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ",
+    "bangla": "Ey iman edenler! Oruç size farz kılındı.",
+    "fazilat": "Bu ayda cennet kapıları açılır.",
+    "rules": "Fecrden akşama kadar oruç tutulur."
+  },
+  {
+    "id": 5,
+    "day": "Arefe Günü",
+    "amol": "Oruç, dua ve zikir",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "bangla": "Allah’tan başka ilah yoktur, O tektir.",
+    "fazilat": "Bu günün orucu iki yılın günahına kefarettir.",
+    "rules": "Hacda olmayanlar için oruç tavsiye edilir."
+  },
+  {
+    "id": 6,
+    "day": "Aşure Günü",
+    "amol": "Oruç ve dua",
+    "arabic": "رَبِّ اغْفِرْ لِي",
+    "bangla": "Rabbim, beni bağışla.",
+    "fazilat": "Bir yılın günahları affedilir.",
+    "rules": "Muharrem’in 9-10 veya 10-11 günlerinde oruç tutulur."
+  },
+  {
+    "id": 7,
+    "day": "Bayram Günü",
+    "amol": "Tekbir, bayram namazı ve dua",
+    "arabic": "اللّٰهُ أَكْبَرُ اللّٰهُ أَكْبَرُ",
+    "bangla": "Allah en büyüktür, Allah en büyüktür.",
+    "fazilat": "Bayramda sevinmek de bir ibadettir.",
+    "rules": "Bayram namazı kılınır."
+  },
+  {
+    "id": 8,
+    "day": "Pazartesi ve Perşembe",
+    "amol": "Nafile oruç ve dua",
+    "arabic": "اللّٰهُمَّ إِنِّي صَائِمٌ",
+    "bangla": "Allah’ım, ben oruçluyum.",
+    "fazilat": "Bu günlerde ameller Allah’a sunulur.",
+    "rules": "Sünnet olarak oruç tutulur."
+  },
+  {
+    "id": 9,
+    "day": "Gecenin Son Kısmı",
+    "amol": "Teheccüd namazı ve dua",
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "bangla": "Rabbimiz, bizden kabul et.",
+    "fazilat": "Bu vakitte yapılan dua en çok kabul edilir.",
+    "rules": "Uykudan kalkıp en az iki rekat namaz kılınır."
   }
 ]
