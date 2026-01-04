@@ -1,29 +1,101 @@
 [
   {
     "id": 1,
-    "name": "ফজরের পর জিকির",
-    "time": "ফজরের নামাজের পরে",
-    "repeat": "৩ বার",
+    "name": "Sabah Namazından Sonra Zikir",
+    "time": "Sabah namazından sonra",
+    "repeat": "3 kez",
     "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
-    "bangla": "পবিত্র মহান আল্লাহর প্রশংসা সহ",
-    "fazilat": "সকালে ৩ বার পড়লে আল্লাহ গুনাহ মাফ করে দেন।"
+    "bangla": "Allah her türlü eksiklikten uzaktır ve hamd O'nadır",
+    "fazilat": "Sabah 3 kez okuyan kişinin günahları affedilir."
   },
   {
     "id": 2,
-    "name": "আসর শেষে জিকির",
-    "time": "আসর নামাজের পরে",
-    "repeat": "১০ বার",
-    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
-    "bangla": "আল্লাহ ছাড়া কোনো উপাস্য নেই",
-    "fazilat": "এই জিকির পড়লে হৃদয় নরম হয় এবং ঈমান শক্ত হয়।"
+    "name": "Sabah Namazından Sonra Tesbih",
+    "time": "Sabah namazından sonra",
+    "repeat": "33 kez",
+    "arabic": "سُبْحَانَ اللَّهِ",
+    "bangla": "Allah noksan sıfatlardan münezzehtir",
+    "fazilat": "Sevaplar artar, günahlar silinir."
   },
   {
     "id": 3,
-    "name": "ঘুমানোর পূর্বে",
-    "time": "ঘুমানোর আগে",
-    "repeat": "৩৩/৩৩/৩৪ বার",
+    "name": "Sabah Namazından Sonra Tahmid",
+    "time": "Sabah namazından sonra",
+    "repeat": "33 kez",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "bangla": "Hamd yalnızca Allah'adır",
+    "fazilat": "Rızık ve bereket artar."
+  },
+  {
+    "id": 4,
+    "name": "Sabah Namazından Sonra Tekbir",
+    "time": "Sabah namazından sonra",
+    "repeat": "34 kez",
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "bangla": "Allah en büyüktür",
+    "fazilat": "İman güçlenir."
+  },
+  {
+    "id": 5,
+    "name": "İkindi Namazından Sonra Zikir",
+    "time": "İkindi namazından sonra",
+    "repeat": "10 kez",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+    "bangla": "Allah'tan başka ilah yoktur",
+    "fazilat": "Kalp yumuşar, iman kuvvetlenir."
+  },
+  {
+    "id": 6,
+    "name": "Akşam Namazından Sonra Dua",
+    "time": "Akşam namazından sonra",
+    "repeat": "7 kez",
+    "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "bangla": "Allah'ım! Beni cehennem ateşinden koru",
+    "fazilat": "Cehennemden korunma sağlanır."
+  },
+  {
+    "id": 7,
+    "name": "Yatsı Namazından Sonra Zikir",
+    "time": "Yatsı namazından sonra",
+    "repeat": "100 kez",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "bangla": "Allah'tan bağışlanma diliyorum",
+    "fazilat": "Günahlar affedilir, kalp temizlenir."
+  },
+  {
+    "id": 8,
+    "name": "Uyumadan Önce Zikir",
+    "time": "Uyumadan önce",
+    "repeat": "33/33/34 kez",
     "arabic": "سُبْحَانَ اللّٰهِ ٣٣، الْحَمْدُ لِلّٰهِ ٣٣، اللّٰهُ أَكْبَرُ ٣٤",
-    "bangla": "সুবহানাল্লাহ ৩৩, আলহামদুলিল্লাহ ৩৩, আল্লাহু আকবার ৩৪",
-    "fazilat": "ঘুমানোর আগের সর্বোত্তম জিকির। মন শান্ত থাকে।"
+    "bangla": "Subhanallah 33, Elhamdülillah 33, Allahu Ekber 34",
+    "fazilat": "Uyumadan önce en faziletli zikirdir, huzur verir."
+  },
+  {
+    "id": 9,
+    "name": "Uyku Duası",
+    "time": "Uyumadan önce",
+    "repeat": "1 kez",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "bangla": "Allah'ım, senin adınla yaşar ve ölürüm",
+    "fazilat": "Güvenli ve bereketli uyku sağlar."
+  },
+  {
+    "id": 10,
+    "name": "Sabah Zikri",
+    "time": "Sabah",
+    "repeat": "100 kez",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "bangla": "Allah'tan başka ilah yoktur, O tektir",
+    "fazilat": "On köle azat etmiş sevabı verilir."
+  },
+  {
+    "id": 11,
+    "name": "Akşam Zikri",
+    "time": "Akşam",
+    "repeat": "100 kez",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "bangla": "Allah noksan sıfatlardan uzaktır ve O'na hamd edilir",
+    "fazilat": "Deniz köpüğü kadar günah bile affedilir."
   }
 ]
