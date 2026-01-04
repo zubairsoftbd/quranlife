@@ -1,20 +1,83 @@
 [
   {
     "id": 1,
-    "day": "শবে কদর",
-    "amol": "নফল নামাজ, দোয়া, ইস্তেগফার ও কোরআন তিলাওয়াত",
+    "day": "Laylatul Qadr",
+    "amol": "Nafl prayer, dua, istighfar and Quran recitation",
     "arabic": "اَللّٰهُمَّ اِنَّكَ عَفُوٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
-    "bangla": "হে আল্লাহ! তুমি ক্ষমাশীল, আমাকে ক্ষমা করো।",
-    "fazilat": "এই রাতে ইবাদত হাজার মাসের ইবাদতের চেয়ে উত্তম।",
-    "rules": "রমজানের শেষ ১০ রাতের বিজোড় রাতগুলোতে বেশি ইবাদত করবে।"
+    "bangla": "O Allah! You are Most Forgiving, forgive me.",
+    "fazilat": "Worship on this night is better than a thousand months.",
+    "rules": "Increase worship during the odd nights of the last 10 days of Ramadan."
   },
   {
     "id": 2,
-    "day": "শবে বরাত",
-    "amol": "নফল নামাজ, তওবা ও ইস্তিগফার",
-    "arabic": "أستغفر الله العظيم",
-    "bangla": "আমি মহান আল্লাহর নিকট ক্ষমা চাই।",
-    "fazilat": "এই রাতে আল্লাহ রহমত বর্ষণ করেন।",
-    "rules": "মাগরিবের পর থেকে ফজর পর্যন্ত দোয়া ও নামাজ করবে।"
+    "day": "Shab-e-Barat",
+    "amol": "Nafl prayer, repentance and seeking forgiveness",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+    "bangla": "I seek forgiveness from Allah the Almighty.",
+    "fazilat": "Allah showers His mercy on this night.",
+    "rules": "Engage in prayer and dua from Maghrib until Fajr."
+  },
+  {
+    "id": 3,
+    "day": "Friday",
+    "amol": "Sending salawat, reciting Surah Kahf and making dua",
+    "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ",
+    "bangla": "O Allah, send peace upon Prophet Muhammad (ﷺ).",
+    "fazilat": "There is a special time on Friday when duas are accepted.",
+    "rules": "Make more dua between Asr and Maghrib."
+  },
+  {
+    "id": 4,
+    "day": "Month of Ramadan",
+    "amol": "Fasting, Taraweeh, Quran recitation and charity",
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ",
+    "bangla": "O believers! Fasting has been prescribed for you.",
+    "fazilat": "The gates of Paradise are opened in this month.",
+    "rules": "Fast from Fajr until Maghrib."
+  },
+  {
+    "id": 5,
+    "day": "Day of Arafah",
+    "amol": "Fasting, dua and zikr",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "bangla": "There is no god but Allah alone.",
+    "fazilat": "Fasting on this day expiates sins of two years.",
+    "rules": "It is recommended to fast if not performing Hajj."
+  },
+  {
+    "id": 6,
+    "day": "Day of Ashura",
+    "amol": "Fasting and dua",
+    "arabic": "رَبِّ اغْفِرْ لِي",
+    "bangla": "My Lord, forgive me.",
+    "fazilat": "Sins of the previous year are forgiven.",
+    "rules": "Fast on 9th & 10th or 10th & 11th of Muharram."
+  },
+  {
+    "id": 7,
+    "day": "Eid Day",
+    "amol": "Takbir, Eid prayer and dua",
+    "arabic": "اللّٰهُ أَكْبَرُ اللّٰهُ أَكْبَرُ",
+    "bangla": "Allah is the Greatest, Allah is the Greatest.",
+    "fazilat": "Expressing joy on Eid is also an act of worship.",
+    "rules": "Perform the Eid prayer."
+  },
+  {
+    "id": 8,
+    "day": "Monday and Thursday",
+    "amol": "Voluntary fasting and dua",
+    "arabic": "اللّٰهُمَّ إِنِّي صَائِمٌ",
+    "bangla": "O Allah, I am fasting.",
+    "fazilat": "Deeds are presented to Allah on these days.",
+    "rules": "Fasting on these days is Sunnah."
+  },
+  {
+    "id": 9,
+    "day": "Last Part of the Night",
+    "amol": "Tahajjud prayer and dua",
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا",
+    "bangla": "Our Lord, accept from us.",
+    "fazilat": "Dua made at this time is most accepted.",
+    "rules": "Pray at least two rakats after waking up."
   }
 ]
