@@ -1,29 +1,101 @@
 [
   {
     "id": 1,
-    "name": "ফজরের পর জিকির",
-    "time": "ফজরের নামাজের পরে",
-    "repeat": "৩ বার",
+    "name": "Zikr After Fajr",
+    "time": "After Fajr prayer",
+    "repeat": "3 times",
     "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
-    "bangla": "পবিত্র মহান আল্লাহর প্রশংসা সহ",
-    "fazilat": "সকালে ৩ বার পড়লে আল্লাহ গুনাহ মাফ করে দেন।"
+    "bangla": "Glory be to Allah and praise is for Him",
+    "fazilat": "If recited 3 times in the morning, Allah forgives sins."
   },
   {
     "id": 2,
-    "name": "আসর শেষে জিকির",
-    "time": "আসর নামাজের পরে",
-    "repeat": "১০ বার",
-    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
-    "bangla": "আল্লাহ ছাড়া কোনো উপাস্য নেই",
-    "fazilat": "এই জিকির পড়লে হৃদয় নরম হয় এবং ঈমান শক্ত হয়।"
+    "name": "Tasbih After Fajr",
+    "time": "After Fajr prayer",
+    "repeat": "33 times",
+    "arabic": "سُبْحَانَ اللَّهِ",
+    "bangla": "Glory be to Allah",
+    "fazilat": "Good deeds increase and sins are erased."
   },
   {
     "id": 3,
-    "name": "ঘুমানোর পূর্বে",
-    "time": "ঘুমানোর আগে",
-    "repeat": "৩৩/৩৩/৩৪ বার",
+    "name": "Tahmid After Fajr",
+    "time": "After Fajr prayer",
+    "repeat": "33 times",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "bangla": "All praise is due to Allah",
+    "fazilat": "Provision and blessings increase."
+  },
+  {
+    "id": 4,
+    "name": "Takbir After Fajr",
+    "time": "After Fajr prayer",
+    "repeat": "34 times",
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "bangla": "Allah is the Greatest",
+    "fazilat": "Faith becomes stronger."
+  },
+  {
+    "id": 5,
+    "name": "Zikr After Asr",
+    "time": "After Asr prayer",
+    "repeat": "10 times",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+    "bangla": "There is no deity except Allah",
+    "fazilat": "The heart becomes soft and faith is strengthened."
+  },
+  {
+    "id": 6,
+    "name": "Dua After Maghrib",
+    "time": "After Maghrib prayer",
+    "repeat": "7 times",
+    "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "bangla": "O Allah, protect me from the Hellfire",
+    "fazilat": "Protection from Hellfire is granted."
+  },
+  {
+    "id": 7,
+    "name": "Zikr After Isha",
+    "time": "After Isha prayer",
+    "repeat": "100 times",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "bangla": "I seek forgiveness from Allah",
+    "fazilat": "Sins are forgiven and the heart is purified."
+  },
+  {
+    "id": 8,
+    "name": "Before Sleeping Zikr",
+    "time": "Before sleeping",
+    "repeat": "33/33/34 times",
     "arabic": "سُبْحَانَ اللّٰهِ ٣٣، الْحَمْدُ لِلّٰهِ ٣٣، اللّٰهُ أَكْبَرُ ٣٤",
-    "bangla": "সুবহানাল্লাহ ৩৩, আলহামদুলিল্লাহ ৩৩, আল্লাহু আকবার ৩৪",
-    "fazilat": "ঘুমানোর আগের সর্বোত্তম জিকির। মন শান্ত থাকে।"
+    "bangla": "Subhanallah 33, Alhamdulillah 33, Allahu Akbar 34",
+    "fazilat": "The best zikr before sleeping; brings peace to the mind."
+  },
+  {
+    "id": 9,
+    "name": "Sleeping Dua",
+    "time": "Before sleeping",
+    "repeat": "1 time",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "bangla": "In Your name, O Allah, I die and I live",
+    "fazilat": "Grants safety and blessings during sleep."
+  },
+  {
+    "id": 10,
+    "name": "Morning Zikr",
+    "time": "Morning",
+    "repeat": "100 times",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "bangla": "There is no god except Allah alone, without partner",
+    "fazilat": "Equivalent reward of freeing ten slaves."
+  },
+  {
+    "id": 11,
+    "name": "Evening Zikr",
+    "time": "Evening",
+    "repeat": "100 times",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "bangla": "Glory and praise be to Allah",
+    "fazilat": "Even sins as much as sea foam are forgiven."
   }
 ]
