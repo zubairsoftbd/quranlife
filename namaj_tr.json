@@ -1,140 +1,138 @@
 [
   {
     "id": 1,
-    "name": "ফজর নামাজ",
-    "rakats": "২ রাকাত সুন্নাত + ২ রাকাত ফরজ",
-    "rules": "ফজরের সময় সুবহে সাদিক থেকে সূর্যোদয় পর্যন্ত।",
+    "name": "Sabah Namazı",
+    "rakats": "2 Rekat Sünnet + 2 Rekat Farz",
+    "rules": "Sabah namazının vakti, imsak vaktinden güneş doğana kadardır.",
     "niyat_arabic": "أصلي فرض الفجر ركعتين لله تعالى",
-    "niyat_local": "আমি ফজরের ফরজ দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için sabah namazının iki rekat farzını kılmaya niyet ettim."
   },
   {
     "id": 2,
-    "name": "যুহর নামাজ",
-    "rakats": "৪ রাকাত সুন্নাত + ৪ রাকাত ফরজ + ২ রাকাত সুন্নাত + ২ রাকাত নফল",
-    "rules": "সূর্য ঢলে পড়ার পর থেকে আসরের সময় পর্যন্ত।",
+    "name": "Öğle Namazı",
+    "rakats": "4 Rekat Sünnet + 4 Rekat Farz + 2 Rekat Sünnet + 2 Rekat Nafile",
+    "rules": "Güneş tepe noktasından batıya kaydıktan sonra ikindi vaktine kadar.",
     "niyat_arabic": "أصلي فرض الظهر أربع ركعات لله تعالى",
-    "niyat_local": "আমি জোহরের ফরজ চার রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için öğle namazının dört rekat farzını kılmaya niyet ettim."
   },
   {
     "id": 3,
-    "name": "আসর নামাজ",
-    "rakats": "৪ রাকাত ফরজ",
-    "rules": "যুহরের সময় শেষ হওয়ার পর থেকে সূর্য ঢলে যাওয়ার আগ পর্যন্ত।",
+    "name": "İkindi Namazı",
+    "rakats": "4 Rekat Farz",
+    "rules": "Öğle vaktinin bitiminden güneş batmadan önceye kadar.",
     "niyat_arabic": "أصلي فرض العصر أربع ركعات لله تعالى",
-    "niyat_local": "আমি আসরের ফরজ চার রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için ikindi namazının dört rekat farzını kılmaya niyet ettim."
   },
   {
     "id": 4,
-    "name": "মাগরিব নামাজ",
-    "rakats": "৩ রাকাত ফরজ + ২ রাকাত সুন্নাত + ২ রাকাত নফল",
-    "rules": "সূর্যাস্তের পর থেকে আকাশের পশ্চিম অংশের লাল আভা চলে যাওয়া পর্যন্ত।",
+    "name": "Akşam Namazı",
+    "rakats": "3 Rekat Farz + 2 Rekat Sünnet + 2 Rekat Nafile",
+    "rules": "Güneş battıktan sonra ufuktaki kızıllık kaybolana kadar.",
     "niyat_arabic": "أصلي فرض المغرب ثلاث ركعات لله تعالى",
-    "niyat_local": "আমি মাগরিবের ফরজ তিন রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için akşam namazının üç rekat farzını kılmaya niyet ettim."
   },
   {
     "id": 5,
-    "name": "এশা নামাজ",
-    "rakats": "৪ রাকাত সুন্নাত + ৪ রাকাত ফরজ + ২ রাকাত সুন্নাত + ২ রাকাত নফল",
-    "rules": "পশ্চিম আকাশের সাদা আভা চলে যাওয়ার পর থেকে ফজরের সুবহে সাদিক পর্যন্ত।",
+    "name": "Yatsı Namazı",
+    "rakats": "4 Rekat Sünnet + 4 Rekat Farz + 2 Rekat Sünnet + 2 Rekat Nafile",
+    "rules": "Akşam kızıllığı kaybolduktan sonra imsak vaktine kadar.",
     "niyat_arabic": "أصلي فرض العشاء أربع ركعات لله تعالى",
-    "niyat_local": "আমি এশার ফরজ চার রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için yatsı namazının dört rekat farzını kılmaya niyet ettim."
   },
-
-
   {
     "id": 6,
-    "name": "ওয়িত্র নামাজ",
-    "rakats": "৩ রাকাত ওয়াজিব",
-    "rules": "এশার পর থেকে ফজরের আগে পর্যন্ত, সেরা সময় তাহাজ্জুদের পরে।",
+    "name": "Vitir Namazı",
+    "rakats": "3 Rekat Vacip",
+    "rules": "Yatsı namazından sonra sabah vaktinden önceye kadar; en faziletli vakit teheccütten sonradır.",
     "niyat_arabic": "أصلي وتر ثلاث ركعات لله تعالى",
-    "niyat_local": "আমি তিন রাকাত ওয়িত্র নামাজ আদায়ের নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için üç rekat vitir namazını kılmaya niyet ettim."
   },
   {
     "id": 7,
-    "name": "তাহাজ্জুদ নামাজ",
-    "rakats": "২ রাকাত থেকে ৮ বা ১২ রাকাত নফল",
-    "rules": "ঘুম থেকে জাগার পরে ফজরের আগে পর্যন্ত।",
+    "name": "Teheccüd Namazı",
+    "rakats": "2 ile 8 veya 12 Rekat Nafile",
+    "rules": "Uyandıktan sonra sabah vaktinden önceye kadar.",
     "niyat_arabic": "أصلي صلاة التهجد ركعتين لله تعالى",
-    "niyat_local": "আমি তাহাজ্জুদের দুই রাকাত নফল নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için teheccüd namazının iki rekat nafilesini kılmaya niyet ettim."
   },
   {
     "id": 8,
-    "name": "চাশত নামাজ",
-    "rakats": "২—১২ রাকাত নফল",
-    "rules": "সূর্য পুরোপুরি উঠার ১৫-২০ মিনিট পর থেকে যুহর পর্যন্ত।",
+    "name": "Kuşluk (Duha) Namazı",
+    "rakats": "2–12 Rekat Nafile",
+    "rules": "Güneş doğduktan 15–20 dakika sonra öğle vaktine kadar.",
     "niyat_arabic": "أصلي صلاة الضحى ركعتين لله تعالى",
-    "niyat_local": "আমি চাশতের দুই রাকাত নফল নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için kuşluk namazının iki rekat nafilesini kılmaya niyet ettim."
   },
   {
     "id": 9,
-    "name": "ইসতিখারা নামাজ",
-    "rakats": "২ রাকাত নফল",
-    "rules": "যেকোনো সময়, অপছন্দের সময় ছাড়া।",
+    "name": "İstihare Namazı",
+    "rakats": "2 Rekat Nafile",
+    "rules": "Mekruh vakitler dışında her zaman kılınabilir.",
     "niyat_arabic": "أصلي صلاة الاستخارة ركعتين لله تعالى",
-    "niyat_local": "আমি ইসতিখারার জন্য দুই রাকাত নফল নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için istihare namazının iki rekat nafilesini kılmaya niyet ettim."
   },
   {
     "id": 10,
-    "name": "ইস্তিস্‌কা (বৃষ্টির জন্য দোয়ার নামাজ)",
-    "rakats": "২ রাকাত",
-    "rules": "জামাতে পড়া উত্তম।",
+    "name": "İstiska (Yağmur Duası) Namazı",
+    "rakats": "2 Rekat",
+    "rules": "Cemaatle kılınması daha faziletlidir.",
     "niyat_arabic": "أصلي صلاة الاستسقاء ركعتين لله تعالى",
-    "niyat_local": "আমি বৃষ্টির জন্য দুই রাকাত নামাজ আদায়ের নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için yağmur duası namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 11,
-    "name": "তারাবিহ নামাজ",
-    "rakats": "২০ রাকাত সুন্নাতে মুয়াক্কাদাহ (৮ রাকাতও পড়া যায়)",
-    "rules": "রমজানের এশার ফরজের পরে।",
+    "name": "Teravih Namazı",
+    "rakats": "20 Rekat Sünnet-i Müekkede (8 Rekat da kılınabilir)",
+    "rules": "Ramazan ayında yatsı namazının farzından sonra.",
     "niyat_arabic": "أصلي صلاة التراويح ركعتين لله تعالى",
-    "niyat_local": "আমি তারাবিহের দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için teravih namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 12,
-    "name": "সূর্যগ্রহণের নামাজ",
-    "rakats": "২ রাকাত",
-    "rules": "সূর্যগ্রহণের সময়ে পড়া হয়।",
+    "name": "Güneş Tutulması Namazı",
+    "rakats": "2 Rekat",
+    "rules": "Güneş tutulması sırasında kılınır.",
     "niyat_arabic": "أصلي صلاة الكسوف ركعتين لله تعالى",
-    "niyat_local": "আমি সূর্যগ্রহণের দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için güneş tutulması namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 13,
-    "name": "চন্দ্রগ্রহণের নামাজ",
-    "rakats": "২ রাকাত",
-    "rules": "চন্দ্রগ্রহণের সময়ে পড়া হয়।",
+    "name": "Ay Tutulması Namazı",
+    "rakats": "2 Rekat",
+    "rules": "Ay tutulması sırasında kılınır.",
     "niyat_arabic": "أصلي صلاة الخسوف ركعتين لله تعالى",
-    "niyat_local": "আমি চন্দ্রগ্রহণের দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için ay tutulması namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 14,
-    "name": "কুসর (মুসাফির) নামাজ",
-    "rakats": "ফরজ ৪ রাকাত হলে ২ রাকাত করে পড়তে হয়",
-    "rules": "48+ মাইল ভ্রমণে এবং 15 দিন কম অবস্থান করলে।",
+    "name": "Kısaltılmış (Seferi) Namaz",
+    "rakats": "Farz 4 rekat ise 2 rekat olarak kılınır",
+    "rules": "48 mil veya daha fazla yolculukta ve 15 günden az kalınacaksa.",
     "niyat_arabic": "أصلي فرض الظهر ركعتين للقصر لله تعالى",
-    "niyat_local": "আমি কসর অবস্থায় জোহরের দুই রাকাত ফরজ নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için seferi olarak öğle namazının iki rekat farzını kılmaya niyet ettim."
   },
   {
     "id": 15,
-    "name": "ঈদুল ফিতর নামাজ",
-    "rakats": "২ রাকাত",
-    "rules": "সূর্য উঠার পর থেকেযুহরের আগে পর্যন্ত।",
+    "name": "Ramazan Bayramı Namazı",
+    "rakats": "2 Rekat",
+    "rules": "Güneş doğduktan sonra öğle vaktinden önceye kadar.",
     "niyat_arabic": "أصلي صلاة عيد الفطر ركعتين لله تعالى",
-    "niyat_local": "আমি ঈদুল ফিতরের দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için Ramazan Bayramı namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 16,
-    "name": "ঈদুল আযহা নামাজ",
-    "rakats": "২ রাকাত",
-    "rules": "সূর্য উঠার পর থেকে যুহরের আগে পর্যন্ত।",
+    "name": "Kurban Bayramı Namazı",
+    "rakats": "2 Rekat",
+    "rules": "Güneş doğduktan sonra öğle vaktinden önceye kadar.",
     "niyat_arabic": "أصلي صلاة عيد الأضحى ركعتين لله تعالى",
-    "niyat_local": "আমি ঈদুল আযহার দুই রাকাত নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için Kurban Bayramı namazının iki rekatını kılmaya niyet ettim."
   },
   {
     "id": 17,
-    "name": "জনাজা নামাজ",
-    "rakats": "রাকাত নেই — ৪ তাকবীর",
-    "rules": "মুসলিম মৃত ব্যক্তির জন্য ফরজে কিফায়া।",
+    "name": "Cenaze Namazı",
+    "rakats": "Rekat yok — 4 Tekbir",
+    "rules": "Vefat eden Müslüman için farz-ı kifayedir.",
     "niyat_arabic": "أصلي على هذا الميت لله تعالى",
-    "niyat_local": "আমি এই মৃত ব্যক্তির জানাজার নামাজ পড়ার নিয়ত করলাম।"
+    "niyat_local": "Allah rızası için bu cenaze namazını kılmaya niyet ettim."
   }
 ]
