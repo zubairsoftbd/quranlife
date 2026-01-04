@@ -1,24 +1,112 @@
 [
   {
     "id": 1,
-    "topic": "নিয়ত",
-    "title": "নিয়তের গুরুত্ব",
-    "rawi": "হযরত উমর ইবনুল খাত্তাব (রা.)",
-    "book": "সহীহ বুখারি",
-    "hadith_no": "১",
+    "topic": "Niyet",
+    "title": "Niyetin Önemi",
+    "rawi": "Hazret Umar İbn El-Hattab (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "1",
     "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ",
-    "bangla_arabic": "নিশ্চয়ই সকল কাজ নিয়তের উপর নির্ভরশীল",
-    "meaning": "মানুষ তার নিয়ত অনুযায়ী প্রতিফল পাবে।"
+    "bangla_arabic": "Ameller niyetle değerlendirilir",
+    "meaning": "Kişi niyetine göre karşılık alır."
   },
   {
     "id": 2,
-    "topic": "সততা",
-    "title": "সততার ফল",
-    "rawi": "হযরত আবু হুরায়রা (রা.)",
-    "book": "সহীহ মুসলিম",
-    "hadith_no": "১০১",
+    "topic": "Doğruluk",
+    "title": "Doğruluğun Sonucu",
+    "rawi": "Hazret Ebu Hureyre (RA)",
+    "book": "Sahih Müslim",
+    "hadith_no": "101",
     "arabic": "الصِّدْقُ يُهْدِي إِلَى الْبِرِّ",
-    "bangla_arabic": "সততা নেকীর দিকে পথ দেখায়",
-    "meaning": "আর নেকী জান্নাতের দিকে নিয়ে যায়।"
+    "bangla_arabic": "Doğruluk iyiliğe götürür",
+    "meaning": "Ve iyilik cennete götürür."
+  },
+  {
+    "id": 3,
+    "topic": "Temizlik",
+    "title": "Temizliğin Önemi",
+    "rawi": "Hazret Ebu Malik El-Eşari (RA)",
+    "book": "Sahih Müslim",
+    "hadith_no": "223",
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+    "bangla_arabic": "Temizlik imanın yarısıdır",
+    "meaning": "Temiz olmak imanın önemli bir parçasıdır."
+  },
+  {
+    "id": 4,
+    "topic": "Kardeşlik",
+    "title": "Müminin Kimliği",
+    "rawi": "Hazret Ebu Musa (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "6026",
+    "arabic": "الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ",
+    "bangla_arabic": "Mümin diğer mümin için bina gibidir",
+    "meaning": "Birbirlerini desteklerler."
+  },
+  {
+    "id": 5,
+    "topic": "Kolaylık",
+    "title": "Din Kolaydır",
+    "rawi": "Hazret Ebu Hureyre (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "39",
+    "arabic": "إِنَّ الدِّينَ يُسْرٌ",
+    "bangla_arabic": "Din kolaydır",
+    "meaning": "Dinde aşırıya gitmemeliyiz."
+  },
+  {
+    "id": 6,
+    "topic": "Sessizlik",
+    "title": "İyi konuş veya sessiz kal",
+    "rawi": "Hazret Ebu Hureyre (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "6018",
+    "arabic": "فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+    "bangla_arabic": "İyi konuş veya sessiz kal",
+    "meaning": "Gereksiz konuşmalardan kaçın."
+  },
+  {
+    "id": 7,
+    "topic": "Sevgi",
+    "title": "İmanın Tadını Hissetmek",
+    "rawi": "Hazret Enes (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "16",
+    "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ",
+    "bangla_arabic": "Hiçbiriniz, kardeşi için kendisi için istediğini istemedikçe iman etmiş sayılmaz",
+    "meaning": "Gerçek iman başkaları için sevgi göstermeyi içerir."
+  },
+  {
+    "id": 8,
+    "topic": "Gülümseme",
+    "title": "Gülümsemek Sadakadır",
+    "rawi": "Hazret Ebu Zerr (RA)",
+    "book": "Sahih Müslim",
+    "hadith_no": "2626",
+    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+    "bangla_arabic": "Kardeşine gülümsemen sadakadır",
+    "meaning": "Gülümsemek bile sevap kazandırır."
+  },
+  {
+    "id": 9,
+    "topic": "Sadaka",
+    "title": "Sadakanın Gücü",
+    "rawi": "Hazret Ebu Hureyre (RA)",
+    "book": "Sahih Müslim",
+    "hadith_no": "1014",
+    "arabic": "الصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ",
+    "bangla_arabic": "Sadaka günahları söndürür",
+    "meaning": "Su ateşi söndürdüğü gibi."
+  },
+  {
+    "id": 10,
+    "topic": "Sabır",
+    "title": "Sabırın Ödülü",
+    "rawi": "Hazret Ebu Sa'id (RA)",
+    "book": "Sahih Buhari",
+    "hadith_no": "1469",
+    "arabic": "وَمَا أُعْطِيَ أَحَدٌ عَطَاءً خَيْرًا مِنَ الصَّبْرِ",
+    "bangla_arabic": "Kimseye sabırdan daha hayırlı bir hediye verilmemiştir",
+    "meaning": "Sabır, müminin büyük gücüdür."
   }
 ]
