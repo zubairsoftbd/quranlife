@@ -1,21 +1,333 @@
 [
   {
     "id": 1,
-    "category": "যাকাতের পরিচয়",
-    "title": "যাকাত কী",
-    "details": "যাকাত হলো ইসলামের তৃতীয় স্তম্ভ..."
+    "category": "Zekatın Tanıtımı",
+    "title": "Zekat Nedir",
+    "details": "Zekat, İslam'ın üçüncü şartıdır. Müslümanların kazandığı mal varlığının belirli bir kısmını fakir ve muhtaçlara vermelerini gerektirir. Kişisel ve toplumsal yaşamda adalet, refah ve merhameti tesis eder."
   },
   {
     "id": 2,
-    "category": "যাকাত ফরজ হওয়ার শর্ত",
-    "title": "যাকাত কাদের উপর ফরজ",
-    "details": "১. মুসলমান হতে হবে..."
+    "category": "Zekatın Farz Olma Şartları",
+    "title": "Zekat Kimler Üzerine Farzdır",
+    "details": "1. Müslüman olmak\n2. Özgür, sağlıklı ve ergin olmak\n3. Nisap miktarında mal varlığına sahip olmak\n4. Malın bir yıl boyunca sabit kalması (hesaplama açısından)"
+  },
+  {
+    "id": 3,
+    "category": "Zekat Türleri",
+    "title": "Zekatın Türleri",
+    "details": "Zekat esas olarak dört türdür:\n1. Zekatü’l-Mâl (Mala ilişkin zekat)\n2. Zekatü’l-Fıtır (Ramazan sonunda verilen)\n3. Tarım ve ürün zekatı\n4. Hayvancılık zekatı"
   },
   {
     "id": 4,
-    "category": "যাকাতের নিয়ত",
-    "title": "যাকাতের নিয়ত (আরবি)",
+    "category": "Zekat Oranları",
+    "title": "Zekat Oranlarının Kısa Açıklaması",
+    "details": "1. Altın ve gümüş: yıllık %2,5\n2. Ticaret veya meslek gelirlerinden: %2,5\n3. Tarım ürünleri: sulanmış %5 veya doğal %10\n4. Hayvanlar: belirli sayı oranında"
+  },
+  {
+    "id": 5,
+    "category": "Zekat Niyeti",
+    "title": "Zekat Niyeti (Arapça)",
     "arabic": "نَوَيْتُ أَنْ أُخْرِجَ زَكَاةَ مَالِي فَرْضًا لِلَّهِ تَعَالَى",
-    "local": "আমি আল্লাহ তাআলার সন্তুষ্টির জন্য আমার সম্পদের ফরজ যাকাত আদায় করার নিয়ত করলাম"
+    "local": "Allah rızası için malımın farz zekatını vermeye niyet ettim."
+  },
+  {
+    "id": 6,
+    "category": "Zekat Verme Zamanı",
+    "title": "Zekatın Zamanı",
+    "details": "Zekat genellikle mal edinildikten bir yıl sonra verilir. Ancak ürünler, meyveler ve belirli mallardan hemen de verilebilir."
+  },
+  {
+    "id": 7,
+    "category": "Zekatın Gidileceği Kişiler",
+    "title": "Zekat Kime Verilir",
+    "details": "Kur’an’a göre zekat sekiz tür insan için verilmiştir:\n1. Fakir\n2. Muhtaç\n3. Zekat toplayıcılar\n4. Kalpleri dine yönlendirmek için\n5. Köleleri özgürleştirmek için\n6. Borçlular\n7. Allah yolunda (savaş, davet vb.)\n8. Yolunu kaybedenlere yardım"
+  },
+  {
+    "id": 8,
+    "category": "Zekat Verme Kuralları",
+    "title": "Zekat Nasıl Verilir",
+    "details": "Zekat dürüst ve şeffaf şekilde verilmelidir, doğrudan hak sahibine veya güvenilir kişi aracılığıyla. Gizli mal veya hile zekata dahil değildir."
+  },
+  {
+    "id": 9,
+    "category": "Zekata Uygun Mal",
+    "title": "Zekata Dahil Mallar",
+    "details": "1. Altın, gümüş, değerli eşyalar\n2. Nakit para, banka bakiyesi, yatırım\n3. Ticari mal ve araçlar\n4. Ürünler, hayvanlar, gelir\n5. Nisap miktarında elde edilen gelir"
+  },
+  {
+    "id": 10,
+    "category": "Zekatın Amacı",
+    "title": "Zekatın Amacı",
+    "details": "Zekatın amacı Allah’ın rızasını kazanmak, toplumda yoksulluğu azaltmak, malın doğru dağılımını sağlamak ve Müslümanlar arasında merhamet ve adaleti tesis etmektir."
+  },
+  {
+    "id": 11,
+    "category": "Zekat Hesabı",
+    "title": "Zekat Nasıl Hesaplanır",
+    "details": "1. Toplam mal varlığını belirleyin\n2. Nisap ile karşılaştırın (ör. altın ≈ 85 gr)\n3. Belirlenen oran %2,5 ile hesaplayın\n4. Zekatı hak sahibine verin"
+  },
+  {
+    "id": 12,
+    "category": "Nisap",
+    "title": "Nisap Nedir ve Miktarı",
+    "details": "Nisap, zekatın farz olacağı belirli mal miktarıdır. Örnek: Altın: 85 gr, Gümüş: 595 gr. Nakit ve ticari mallar da aynı orana göre hesaplanır."
+  },
+  {
+    "id": 13,
+    "category": "Zekat Vermemenin Sonuçları",
+    "title": "Zekat Vermemenin Sonuçları",
+    "details": "Zekat vermemek Allah’ın gazabını çeker ve dini sorumluluğun ihlali olur. Toplumda adaletsizlik ve yoksulluğu artırır."
+  },
+  {
+    "id": 14,
+    "category": "Zekat Özel Durumlar",
+    "title": "Ürün ve Hayvan Zekatı",
+    "details": "Ürünler için: sulanmış ürün %5, doğal ürün %10 verilir. Hayvanlar için belirli sayı oranı uygulanır."
+  },
+  {
+    "id": 15,
+    "category": "Zekat Örnekleri",
+    "title": "Zekat Örnekleri",
+    "details": "Bir kişi 100.000 TL ticari kazanç elde eder ve nisap dolarsa, %2,5 yani 2.500 TL zekat vermelidir."
+  },
+  {
+    "id": 16,
+    "category": "Zekat Kuralları",
+    "title": "Zekatın Temel Kuralları",
+    "details": "1. Mal tamamen mülkiyetinizde olmalı\n2. Mal belirli süre boyunca sabit kalmalı\n3. Zekat hak sahibine verilmeli\n4. Gizli veya hileli mal dahil edilmez"
+  },
+  {
+    "id": 17,
+    "category": "Zekattan Alınacak Dersler",
+    "title": "Zekattan Etik Dersler",
+    "details": "Zekat merhamet, yoksulluğu azaltma, malın adil dağılımı, Allah’a kulluk ve toplumsal sorumluluk öğretir."
+  },
+  {
+    "id": 18,
+    "category": "Zekat ve Fitre",
+    "title": "Zekat ve Fitre Arasındaki Fark",
+    "details": "Zekat mal ve gelir üzerine farzdır, fitre Ramazan sonunda fakirlere yemek veya nakit olarak verilir."
+  },
+  {
+    "id": 19,
+    "category": "Zekat Verirken Dikkat",
+    "title": "Zekat Verirken Dikkat",
+    "details": "1. Alıcının gerçekten hak sahibi olduğundan emin olun\n2. Doğru miktarı hesaplayın\n3. Şeffaf ve dürüst şekilde verin"
+  },
+  {
+    "id": 20,
+    "category": "Zekatın Faydaları",
+    "title": "Zekatın Sosyal ve Psikolojik Faydaları",
+    "details": "Toplumda yoksulluğu azaltma, malın adil dağılımı, Allah rızası, huzur ve tatmin sağlar."
+  },
+  {
+    "id": 21,
+    "category": "Zekat Tarihi",
+    "title": "Zekatın Tarihi ve Bağlamı",
+    "details": "Zekat İslam'ın ilk döneminden beri farzdır. İlk Müslüman toplumda malın adil dağılımını ve fakirlere yardımı sağlamak için uygulanmıştır."
+  },
+  {
+    "id": 22,
+    "category": "Banka ve Nakit Zekatı",
+    "title": "Banka Bakiyesi ve Nakit Zekatı",
+    "details": "Banka bakiyesi ve nakit toplanır, nisap tamam ise %2,5 zekat verilmelidir."
+  },
+  {
+    "id": 23,
+    "category": "Ticari Gelir",
+    "title": "Ticari Gelir ve Ürün Zekatı",
+    "details": "Ticari gelir, ürün ve malzemeleri hesaplayın ve nisaba göre %2,5 zekat verin. Taze veya doğal ürünler farklı oranlarda verilir."
+  },
+  {
+    "id": 24,
+    "category": "Aile Malları",
+    "title": "Aile Ortak Mallarının Zekatı",
+    "details": "Aile üyelerinin ortak malı varsa, nisaba göre bireysel veya toplu olarak zekat verilmelidir."
+  },
+  {
+    "id": 25,
+    "category": "Tarım Ürünleri Zekatı",
+    "title": "Tarım Ürünleri Zekatı",
+    "details": "Sulanan ürün %5, doğal ürün %10 nisaba göre verilmelidir. Örnek: 100 kg pirinç ise sulanan 5 kg, doğal 10 kg."
+  },
+  {
+    "id": 26,
+    "category": "Hayvan Zekatı",
+    "title": "Hayvan Zekatı",
+    "details": "İnek, koyun, deve ve diğer hayvanlar belirli sayı oranında zekat verilmelidir. Örnek: 30–39 inek için 1 buzağı."
+  },
+  {
+    "id": 27,
+    "category": "Zekatın Hak Sahipleri",
+    "title": "Zekat Kimlere Verilir",
+    "details": "Zekat sadece: fakir, muhtaç, borçlu, zekat toplayıcı, kalpleri dine yönlendirmek için, köleleri özgürleştirmek, Allah yolunda, yolunu kaybedenlere yardım için verilir."
+  },
+  {
+    "id": 28,
+    "category": "Zekat Kuralları",
+    "title": "Zekat Verme Kuralları",
+    "details": "1. Mal tamamen sizin olmalı\n2. Hak sahibine verilmeli\n3. Belirlenen oran uygulanmalı\n4. Gizli veya hileli mal dahil edilmez"
+  },
+  {
+    "id": 29,
+    "category": "Zekat ve Fitre",
+    "title": "Zekat ve Fitre Arasındaki Fark",
+    "details": "Zekat mal ve gelir üzerine farzdır, fitre Ramazan sonunda fakirlere yiyecek veya nakit olarak verilir."
+  },
+  {
+    "id": 30,
+    "category": "Zekat Miktarı",
+    "title": "Zekat Hesaplama Formülü",
+    "details": "Nakit, altın, gümüş, ticaret veya ürünün toplam değerini nisap ile karşılaştırın. Nisap dolarsa %2,5 veya belirlenen oranla verin."
+  },
+  {
+    "id": 31,
+    "category": "Zekat ve Borçlar",
+    "title": "Borçlular İçin Zekat",
+    "details": "Borçlu olanlara yardım için zekat kullanılabilir. Kişi borcunu ödeyemiyorsa, diğer hak sahiplerine verilmelidir."
+  },
+  {
+    "id": 32,
+    "category": "Zekatın İçsel Öğretileri",
+    "title": "Zekatın Ahlaki Öğretileri",
+    "details": "Zekat merhamet, dürüstlük, adalet, yoksulluğu azaltma ve Allah’a kulluğu öğretir. Toplumda eşitlik duygusunu artırır."
+  },
+  {
+    "id": 33,
+    "category": "Zekat Faydaları",
+    "title": "Zekatın Psikolojik ve Sosyal Faydaları",
+    "details": "1. Fakir ve muhtaçlara yardım\n2. Malın adil dağılımı\n3. Allah rızası\n4. Zihinsel huzur ve tatmin"
+  },
+  {
+    "id": 34,
+    "category": "Zekat Vermemenin Etkileri",
+    "title": "Zekat Vermemenin Etkisi",
+    "details": "Zekat vermemek dini sorumluluğun ihlali olur, Allah’ın gazabını çekebilir ve toplumda yoksulluk ve adaletsizliği artırır."
+  },
+  {
+    "id": 35,
+    "category": "Zekat Prensipleri",
+    "title": "Zekatın Temel Prensipleri",
+    "details": "1. Adil dağılım\n2. Dürüstlük ve şeffaflık\n3. Fakirlere karşı merhamet\n4. Allah’a kulluk ve ahlaki değerler"
+  },
+  {
+    "id": 36,
+    "category": "Zekat Örnekleri",
+    "title": "Nakit Gelir Örneği",
+    "details": "Bir kişi 50.000 TL kazanır ve nisap dolarsa %2,5 yani 1.250 TL zekat vermelidir."
+  },
+  {
+    "id": 37,
+    "category": "Altın ve Gümüş Zekatı",
+    "title": "Altın ve Gümüş Zekatı",
+    "details": "1. Altın: 85 gr veya daha fazla ise %2,5 zekat\n2. Gümüş: 595 gr veya daha fazla ise %2,5 zekat"
+  },
+  {
+    "id": 38,
+    "category": "Ticaret ve Yatırım",
+    "title": "Ticari Mal ve Yatırım Zekatı",
+    "details": "Ticari gelir, mal ve stokları hesaplayın ve nisap dolarsa %2,5 zekat verin."
+  },
+  {
+    "id": 39,
+    "category": "Ürün Oran Örneği",
+    "title": "Ürün Oranı ve Hesaplama",
+    "details": "Sulanmış ürün 200 kg ise %5 yani 10 kg, doğal ürün ise %10 yani 20 kg zekat verilir."
+  },
+  {
+    "id": 40,
+    "category": "Hayvan Örnekleri",
+    "title": "Hayvan Zekatı Hesaplama",
+    "details": "Örnek: 30–39 inek için 1 buzağı, 40–59 inek için 2 buzağı. Koyun ve deve farklı sayılarda."
+  },
+  {
+    "id": 41,
+    "category": "Zekat Verirken Dikkat",
+    "title": "Zekat Verirken Dikkat",
+    "details": "1. Alıcının hak sahibi olduğundan emin olun\n2. Doğru hesaplayın\n3. Şeffaf ve dürüst verin"
+  },
+  {
+    "id": 42,
+    "category": "Zekat Hesaplama Örneği",
+    "title": "Nakit + Ticari Mal Örneği",
+    "details": "Kişi 100.000 TL nakit + 50.000 TL ticari mal = 150.000 TL. Nisap dolarsa %2,5 zekat = 3.750 TL."
+  },
+  {
+    "id": 43,
+    "category": "Zekatın Ahlaki Öğretisi",
+    "title": "Zekattan Ahlaki Dersler",
+    "details": "Merhamet, dürüstlük, adalet, yoksullukta azalma, Allah’a kulluk ve sosyal sorumluluk öğretir."
+  },
+  {
+    "id": 44,
+    "category": "Zekat ve Koordinasyon",
+    "title": "Zekatın Doğru Koordinasyonu",
+    "details": "Bireysel mal, ticaret, banka bakiyesi, ürün ve hayvan mallarını birleştirip nisap hesaplanmalıdır."
+  },
+  {
+    "id": 45,
+    "category": "Zekat Yönetimi",
+    "title": "Zekat Yönetim Kuralları",
+    "details": "Zekat devlet veya gönüllü kuruluşlar aracılığıyla toplanırsa şeffaflık ve güvenilirlik sağlanır."
+  },
+  {
+    "id": 46,
+    "category": "Zekat ve Sosyal İlke",
+    "title": "Zekatın Sosyal Etkisi",
+    "details": "Zekat, toplumda yoksulluğu azaltır, malın eşit dağılımını sağlar, merhameti artırır ve barışı tesis eder."
+  },
+  {
+    "id": 47,
+    "category": "Fitre ve Zekat Karşılaştırması",
+    "title": "Fitre ve Zekat Benzerlik ve Farkları",
+    "details": "Fitre Ramazan sonunda fakirlere yiyecek veya nakit olarak verilir, zekat mal ve gelir üzerinden. İkisi de yoksulluğu azaltır ve Allah rızası içindir."
+  },
+  {
+    "id": 48,
+    "category": "Zekat ve Sadaka",
+    "title": "Zekat ve Sadaka Farkı",
+    "details": "Zekat farzdır ve hesaplıdır, sadaka isteğe bağlıdır. İkisi de toplumsal yardımlaşmayı ve yoksulluğu azaltır."
+  },
+  {
+    "id": 49,
+    "category": "Zekat Hak Sahipleri Listesi",
+    "title": "Zekat Hak Sahipleri Detaylı Liste",
+    "details": "1. Fakir\n2. Muhtaç\n3. Zekat toplayıcı\n4. Kalpleri dine yönlendirmek\n5. Köleleri özgürleştirmek\n6. Borçlular\n7. Allah yolunda\n8. Yolunu kaybedenler"
+  },
+  {
+    "id": 50,
+    "category": "Zekatın Doğru Kullanımı",
+    "title": "Zekatın Doğru Kullanımı",
+    "details": "Zekat doğrudan hak sahibine veya güvenilir bir kuruluş aracılığıyla verilir. Hile, gizli mal veya etik dışı kullanım yasaktır."
+  },
+  {
+    "id": 51,
+    "category": "Zekat ve Yatırım",
+    "title": "Yatırım ve Zekat",
+    "details": "Yatırımlar veya hisse senetlerinden gelir elde edilirse, nisap dolduğunda %2,5 zekat verilmelidir."
+  },
+  {
+    "id": 52,
+    "category": "Zekat Yenileme",
+    "title": "Yıllık Zekat Hesabı",
+    "details": "Her yıl malın yeni hesabını yapın, nisap dolduysa %2,5 veya belirlenen oranla tekrar zekat verin."
+  },
+  {
+    "id": 53,
+    "category": "Zekat Alışkanlığı",
+    "title": "Düzenli Zekat Verme Alışkanlığı",
+    "details": "Her yıl belirlenen zamanda zekat vermek hem mal hem ahlaki açıdan kazanç sağlar."
+  },
+  {
+    "id": 54,
+    "category": "Zekatın Temel İlkeleri",
+    "title": "Zekatın Temel İlkelerinin Özeti",
+    "details": "1. Nisap tamam olmalı\n2. Mal bir yıl boyunca kalmalı\n3. Şeffaf şekilde verilmelidir\n4. Hak sahibi olmalı"
+  },
+  {
+    "id": 55,
+    "category": "Zekatın Özeti",
+    "title": "Zekat A-Z Özeti",
+    "details": "Zekat İslam’ın üçüncü şartıdır, nisap tamam olduğunda farzdır. Mal dağılımı, yoksulluğu azaltma, Allah rızasını kazanma ve sosyal adaleti sağlar."
   }
 ]
