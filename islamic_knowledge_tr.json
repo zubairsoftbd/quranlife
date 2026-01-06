@@ -2,110 +2,230 @@
   "islamic_knowledge": [
     {
       "id": 1,
-      "category": "মৌলিক ইসলামিক জ্ঞান",
+      "category": "Temel İslami Bilgiler",
       "icon": "basic_islam",
       "items": [
         {
-          "title": "ইসলাম কী",
-          "description": "ইসলাম হলো আল্লাহ তাআলার মনোনীত জীবনব্যবস্থা, যা মানবজাতির কল্যাণের জন্য প্রেরিত।"
+          "title": "İslam Nedir?",
+          "description": "İslam, Allah tarafından insanlığın faydası için gönderilmiş ilahi bir yaşam sistemidir."
         },
         {
-          "title": "ঈমানের ৬টি স্তম্ভ",
-          "description": "আল্লাহ, ফেরেশতা, কিতাব, রাসূল, আখিরাত ও তাকদীরে বিশ্বাস করাকে ঈমান বলা হয়।"
+          "title": "İmanın Altı Şartı",
+          "description": "Allah’a, meleklere, kitaplara, peygamberlere, ahiret gününe ve kadere iman etmektir."
         },
         {
-          "title": "ইসলামের ৫টি স্তম্ভ",
-          "description": "কালিমা, নামাজ, রোজা, যাকাত ও হজ—এই পাঁচটি ইসলামের মূল ভিত্তি।"
+          "title": "İslam’ın Beş Şartı",
+          "description": "Kelime-i Şehadet, Namaz, Oruç, Zekât ve Hac İslam’ın beş temel şartıdır."
+        },
+        {
+          "title": "Tevhid",
+          "description": "Allah’ın birliğine inanmak ve yalnızca O’na ibadet etmek Tevhid’dir."
+        },
+        {
+          "title": "Şirk",
+          "description": "Allah’a ortak koşmak şirktir ve en büyük günahtır."
+        },
+        {
+          "title": "İyilik ve Günah",
+          "description": "Allah rızası için yapılan işler iyilik, yasaklanan işler ise günahtır."
+        },
+        {
+          "title": "Ahirete İman",
+          "description": "Ölümden sonra diriliş ve hesap gününe inanmak imanın bir parçasıdır."
+        },
+        {
+          "title": "İslam’ın Amacı",
+          "description": "İnsanı doğru yola iletmek ve Allah’a kulluğu öğretmektir."
+        },
+        {
+          "title": "Namazın Önemi",
+          "description": "Namaz, İslam’ın direği ve en önemli ibadetidir."
+        },
+        {
+          "title": "Orucun Amacı",
+          "description": "Allah’ın rızasını kazanmak ve nefsi terbiye etmek için tutulur."
+        },
+        {
+          "title": "Zekâtın Önemi",
+          "description": "Zekât malı temizler ve ihtiyaç sahiplerine yardım eder."
+        },
+        {
+          "title": "Haccın Önemi",
+          "description": "Gücü yeten her Müslümana ömründe bir defa hac farzdır."
         }
       ]
     },
     {
       "id": 2,
-      "category": "কুরআন সম্পর্কিত জ্ঞান",
+      "category": "Kur’an Bilgisi",
       "icon": "quran",
       "items": [
         {
-          "title": "কুরআন নাযিলের ইতিহাস",
-          "description": "কুরআন মাজিদ ২৩ বছরে ধাপে ধাপে নবী মুহাম্মদ ﷺ এর উপর নাযিল হয়েছে।"
+          "title": "Kur’an’ın İndirilişi",
+          "description": "Kur’an-ı Kerim, 23 yıl boyunca Peygamberimiz Hz. Muhammed ﷺ’e indirilmiştir."
         },
         {
-          "title": "মক্কী ও মাদানী সূরা",
-          "description": "হিজরতের আগে নাযিল হওয়া সূরা মক্কী এবং পরে নাযিল হওয়া সূরা মাদানী।"
+          "title": "Mekki ve Medeni Sureler",
+          "description": "Hicretten önce inen sureler Mekki, sonra inenler Medeni’dir."
+        },
+        {
+          "title": "Kur’an’ın Bölümleri",
+          "description": "Kur’an ayetlere, surelere ve cüzlere ayrılmıştır."
+        },
+        {
+          "title": "Kur’an Ezberlemek",
+          "description": "Kur’an’ı ezberlemek büyük bir ibadet ve sevaptır."
+        },
+        {
+          "title": "Tecvid ile Okuma",
+          "description": "Kur’an doğru telaffuz ve kurallarla okunmalıdır."
+        },
+        {
+          "title": "Fatiha Suresinin Önemi",
+          "description": "Namazda okunması farz olan en önemli suredir."
+        },
+        {
+          "title": "Bakara Suresinin Öğretileri",
+          "description": "İman, ahlak ve düzenli yaşam hakkında rehberlik eder."
+        },
+        {
+          "title": "Kur’an ve Hadis İlişkisi",
+          "description": "Kur’an ana kaynaktır, hadisler onun açıklamasıdır."
+        },
+        {
+          "title": "Kur’an Okumanın Fazileti",
+          "description": "Kur’an okumak Allah’a yakınlık sağlar ve günahları affettirir."
+        },
+        {
+          "title": "Kur’an’ın Dili",
+          "description": "Kur’an-ı Kerim Arapça olarak indirilmiştir."
         }
       ]
     },
     {
       "id": 3,
-      "category": "হাদিস জ্ঞান",
+      "category": "Hadis Bilgisi",
       "icon": "hadith",
       "items": [
         {
-          "title": "হাদিস কী",
-          "description": "নবী মুহাম্মদ ﷺ এর কথা, কাজ ও অনুমোদনকে হাদিস বলা হয়।"
+          "title": "Hadis Nedir?",
+          "description": "Peygamber Efendimiz ﷺ’in sözleri, fiilleri ve onayları hadistir."
         },
         {
-          "title": "হাদিসের প্রকারভেদ",
-          "description": "সহীহ, হাসান ও যঈফ—এই তিন প্রকারে হাদিস বিভক্ত।"
+          "title": "Hadis Çeşitleri",
+          "description": "Hadisler Sahih, Hasen ve Zayıf olarak sınıflandırılır."
+        },
+        {
+          "title": "Sahih Hadisin Önemi",
+          "description": "Güvenilir senede sahip hadisler dini delil kabul edilir."
+        },
+        {
+          "title": "Hadisin Amacı",
+          "description": "İslamî hayat tarzını ve ahlakı öğretmektir."
+        },
+        {
+          "title": "Siyer-i Nebi",
+          "description": "Peygamberimizin ﷺ hayatı Kur’an ve hadis ışığında anlatılır."
+        },
+        {
+          "title": "Senetin Önemi",
+          "description": "Hadisin doğruluğu raviler zincirine bağlıdır."
+        },
+        {
+          "title": "Hadislerde Ahlak",
+          "description": "Doğruluk, sabır ve merhamet öğretilir."
         }
       ]
     },
     {
       "id": 4,
-      "category": "নামাজ সংক্রান্ত জ্ঞান",
+      "category": "Namaz Bilgisi",
       "icon": "prayer",
       "items": [
         {
-          "title": "নামাজের গুরুত্ব",
-          "description": "নামাজ ইসলামের স্তম্ভ এবং জান্নাতে প্রবেশের অন্যতম মাধ্যম।"
+          "title": "Namazın Farz Oluşu",
+          "description": "Namaz, ergenlik çağına ulaşan her Müslümana farzdır."
         },
         {
-          "title": "নামাজ ভঙ্গের কারণ",
-          "description": "কথা বলা, হাসা, ইচ্ছাকৃত অজু ভঙ্গ হলে নামাজ বাতিল হয়।"
+          "title": "Namazı Bozan Şeyler",
+          "description": "Konuşmak, gülmek veya bilerek abdesti bozmak namazı geçersiz kılar."
+        },
+        {
+          "title": "Farz ve Sünnet Namazlar",
+          "description": "Farz namazlar zorunlu, sünnetler sevaptır."
+        },
+        {
+          "title": "Cuma Namazı",
+          "description": "Cuma günü cemaatle kılınması farzdır."
+        },
+        {
+          "title": "Namaz Vakitleri",
+          "description": "Her namazın belirli bir vakti vardır."
         }
       ]
     },
     {
       "id": 5,
-      "category": "দোয়া ও যিকির",
+      "category": "Dua ve Zikir",
       "icon": "dua",
       "items": [
         {
-          "title": "দৈনন্দিন জীবনের দোয়া",
-          "description": "ঘুম, খাওয়া, সফরসহ প্রতিটি কাজের জন্য রাসূল ﷺ দোয়া শিখিয়েছেন।"
+          "title": "Günlük Dualar",
+          "description": "Uyku, yemek ve yolculuk için Peygamberimiz ﷺ dualar öğretmiştir."
         },
         {
-          "title": "সকাল ও সন্ধ্যার যিকির",
-          "description": "এই যিকিরগুলো পাঠ করলে আল্লাহর হেফাজতে থাকা যায়।"
+          "title": "Sabah ve Akşam Zikirleri",
+          "description": "Bu zikirler Allah’ın korumasını sağlar."
+        },
+        {
+          "title": "Oruç Duası",
+          "description": "İftar ve sahur vakitlerinde yapılan dualar kabul edilir."
+        },
+        {
+          "title": "Zikrin Fazileti",
+          "description": "Zikir kalbe huzur verir."
         }
       ]
     },
     {
       "id": 6,
-      "category": "ইসলামিক ইতিহাস",
+      "category": "İslam Tarihi",
       "icon": "history",
       "items": [
         {
-          "title": "নবী মুহাম্মদ ﷺ এর জীবনী",
-          "description": "তিনি ৫৭০ খ্রিস্টাব্দে মক্কায় জন্মগ্রহণ করেন এবং মানবতার জন্য রহমত ছিলেন।"
+          "title": "Peygamberimizin ﷺ Hayatı",
+          "description": "570 yılında Mekke’de doğmuş ve insanlığa rahmet olarak gönderilmiştir."
         },
         {
-          "title": "চার খলিফার পরিচয়",
-          "description": "আবু বকর, উমর, উসমান ও আলী (রাঃ) ইসলামের শ্রেষ্ঠ শাসক ছিলেন।"
+          "title": "Dört Halife",
+          "description": "Hz. Ebubekir, Hz. Ömer, Hz. Osman ve Hz. Ali (ra) örnek yöneticilerdi."
+        },
+        {
+          "title": "Hicretin Önemi",
+          "description": "Hicret ile İslam devleti kurulmuştur."
         }
       ]
     },
     {
       "id": 7,
-      "category": "প্রশ্ন ও উত্তর",
+      "category": "Soru ve Cevap",
       "icon": "qa",
       "items": [
         {
-          "title": "গান শোনা কি হারাম?",
-          "description": "ইসলামী শরিয়তে বাদ্যযন্ত্রসহ গান শোনা অধিকাংশ আলেমের মতে হারাম।"
+          "title": "Müzik dinlemek haram mı?",
+          "description": "Birçok âlime göre çalgılı müzik haramdır."
         },
         {
-          "title": "দাড়ি রাখা কি ফরজ?",
-          "description": "অনেক আলেমের মতে দাড়ি রাখা ওয়াজিব।"
+          "title": "Sakal bırakmak farz mı?",
+          "description": "Birçok âlime göre sakal bırakmak vaciptir."
+        },
+        {
+          "title": "Zekât ne kadardır?",
+          "description": "Nisap miktarını aşan maldan yıllık %2,5 zekât verilir."
+        },
+        {
+          "title": "Tevbenin Kabulü",
+          "description": "Samimi tevbe eden kimsenin günahlarını Allah affeder."
         }
       ]
     }
