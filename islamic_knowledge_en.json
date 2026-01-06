@@ -2,110 +2,346 @@
   "islamic_knowledge": [
     {
       "id": 1,
-      "category": "মৌলিক ইসলামিক জ্ঞান",
+      "category": "Basic Islamic Knowledge",
       "icon": "basic_islam",
       "items": [
         {
-          "title": "ইসলাম কী",
-          "description": "ইসলাম হলো আল্লাহ তাআলার মনোনীত জীবনব্যবস্থা, যা মানবজাতির কল্যাণের জন্য প্রেরিত।"
+          "title": "What is Islam?",
+          "description": "Islam is the life system ordained by Allah, sent for the welfare of humanity."
         },
         {
-          "title": "ঈমানের ৬টি স্তম্ভ",
-          "description": "আল্লাহ, ফেরেশতা, কিতাব, রাসূল, আখিরাত ও তাকদীরে বিশ্বাস করাকে ঈমান বলা হয়।"
+          "title": "Six Pillars of Iman",
+          "description": "Belief in Allah, angels, holy books, prophets, the Day of Judgment, and divine decree is called Iman."
         },
         {
-          "title": "ইসলামের ৫টি স্তম্ভ",
-          "description": "কালিমা, নামাজ, রোজা, যাকাত ও হজ—এই পাঁচটি ইসলামের মূল ভিত্তি।"
+          "title": "Five Pillars of Islam",
+          "description": "Shahada (faith), Salah (prayer), Sawm (fasting), Zakat (charity), and Hajj (pilgrimage) are the five fundamental pillars of Islam."
+        },
+        {
+          "title": "Tawheed",
+          "description": "Belief in the Oneness of Allah and worshipping Him alone is called Tawheed."
+        },
+        {
+          "title": "Shirk",
+          "description": "Associating partners with Allah is called Shirk, which is the gravest sin."
+        },
+        {
+          "title": "Good Deeds and Sins",
+          "description": "Good deeds are performed for Allah's pleasure, while sins are actions prohibited by Allah."
+        },
+        {
+          "title": "Belief in God and the Hereafter",
+          "description": "Belief in Allah and life after death is part of Iman."
+        },
+        {
+          "title": "Purpose of Islam",
+          "description": "To guide humanity towards a righteous life and ensure worship of Allah."
+        },
+        {
+          "title": "Importance of Salah",
+          "description": "Salah is a major pillar of Islam and a primary means of worship."
+        },
+        {
+          "title": "Purpose of Fasting",
+          "description": "Fasting is observed to gain Allah's pleasure and for self-purification."
+        },
+        {
+          "title": "Importance of Zakat",
+          "description": "Zakat purifies wealth and helps the needy in society."
+        },
+        {
+          "title": "Importance of Hajj",
+          "description": "Performing Hajj once in a lifetime is obligatory for eligible Muslims."
         }
       ]
     },
     {
       "id": 2,
-      "category": "কুরআন সম্পর্কিত জ্ঞান",
+      "category": "Quranic Knowledge",
       "icon": "quran",
       "items": [
         {
-          "title": "কুরআন নাযিলের ইতিহাস",
-          "description": "কুরআন মাজিদ ২৩ বছরে ধাপে ধাপে নবী মুহাম্মদ ﷺ এর উপর নাযিল হয়েছে।"
+          "title": "History of Quran Revelation",
+          "description": "The Quran was revealed gradually to Prophet Muhammad ﷺ over 23 years."
         },
         {
-          "title": "মক্কী ও মাদানী সূরা",
-          "description": "হিজরতের আগে নাযিল হওয়া সূরা মক্কী এবং পরে নাযিল হওয়া সূরা মাদানী।"
+          "title": "Makki and Madani Surahs",
+          "description": "Surahs revealed before Hijrah are Makki, and those revealed after are Madani."
+        },
+        {
+          "title": "Division of the Quran",
+          "description": "The Quran is divided into Ayahs, Surahs, and Juz."
+        },
+        {
+          "title": "Memorizing the Quran",
+          "description": "Hifz (memorization) of the Quran is a noble act and earns Allah's pleasure."
+        },
+        {
+          "title": "Recitation with Tajweed",
+          "description": "Reciting the Quran with proper pronunciation and rules is required."
+        },
+        {
+          "title": "Importance of Surah Al-Fatiha",
+          "description": "It is the opening Surah and is essential in every Salah."
+        },
+        {
+          "title": "Lessons from Surah Al-Baqarah",
+          "description": "Guides humanity in morality, discipline, and strengthening faith."
+        },
+        {
+          "title": "Relationship between Quran and Hadith",
+          "description": "The Quran is the main text, and Hadith explains its teachings and implementation."
+        },
+        {
+          "title": "Virtue of Quran Recitation",
+          "description": "Reciting the Quran increases nearness to Allah and forgives sins."
+        },
+        {
+          "title": "Language of the Quran",
+          "description": "The Quran was revealed in Arabic."
+        },
+        {
+          "title": "Applying Quranic Teachings",
+          "description": "Implementing moral and ethical teachings in daily life is essential."
+        },
+        {
+          "title": "Qiyamul Layl",
+          "description": "Praying at night and reciting Quran is Sunnah and highly rewarding."
         }
       ]
     },
     {
       "id": 3,
-      "category": "হাদিস জ্ঞান",
+      "category": "Hadith Knowledge",
       "icon": "hadith",
       "items": [
         {
-          "title": "হাদিস কী",
-          "description": "নবী মুহাম্মদ ﷺ এর কথা, কাজ ও অনুমোদনকে হাদিস বলা হয়।"
+          "title": "What is Hadith?",
+          "description": "Hadith is the sayings, actions, and approvals of Prophet Muhammad ﷺ."
         },
         {
-          "title": "হাদিসের প্রকারভেদ",
-          "description": "সহীহ, হাসান ও যঈফ—এই তিন প্রকারে হাদিস বিভক্ত।"
+          "title": "Types of Hadith",
+          "description": "Hadith is classified as Sahih (authentic), Hasan (good), and Da'if (weak)."
+        },
+        {
+          "title": "Importance of Sahih Hadith",
+          "description": "Authentic Hadith with a reliable chain is accepted as a source of Islamic law."
+        },
+        {
+          "title": "Purpose of Hadith",
+          "description": "To guide people towards Islamic way of life and moral conduct."
+        },
+        {
+          "title": "Seerah of the Prophet",
+          "description": "The life of Prophet ﷺ explained through Quran and Hadith."
+        },
+        {
+          "title": "Hadith and Fatwa",
+          "description": "Hadith serves as a source of legal rulings and moral guidance."
+        },
+        {
+          "title": "Rules for Reading Hadith",
+          "description": "Reading Hadith with belief and attention improves moral character."
+        },
+        {
+          "title": "Chain of Hadith (Sanad)",
+          "description": "A Hadith with a reliable chain is accepted."
+        },
+        {
+          "title": "Ethical Lessons in Hadith",
+          "description": "Teaches humanity, patience, and honesty."
+        },
+        {
+          "title": "Hadith on Duas and Sacrifice",
+          "description": "Emphasizes the importance of supplication and worship in life."
         }
       ]
     },
     {
       "id": 4,
-      "category": "নামাজ সংক্রান্ত জ্ঞান",
+      "category": "Prayer Knowledge",
       "icon": "prayer",
       "items": [
         {
-          "title": "নামাজের গুরুত্ব",
-          "description": "নামাজ ইসলামের স্তম্ভ এবং জান্নাতে প্রবেশের অন্যতম মাধ্যম।"
+          "title": "Importance of Salah",
+          "description": "Salah is a pillar of Islam and a key means to enter Paradise."
         },
         {
-          "title": "নামাজ ভঙ্গের কারণ",
-          "description": "কথা বলা, হাসা, ইচ্ছাকৃত অজু ভঙ্গ হলে নামাজ বাতিল হয়।"
+          "title": "Causes of Salah Invalidity",
+          "description": "Talking, laughing, or intentional loss of ablution invalidates Salah."
+        },
+        {
+          "title": "Fard and Sunnah Prayers",
+          "description": "Fard prayers are obligatory, Sunnah are recommended. Missing Fard is sinful."
+        },
+        {
+          "title": "Jumu'ah Prayer",
+          "description": "Friday congregational prayer is obligatory and should be performed in the mosque."
+        },
+        {
+          "title": "Nafl (Optional) Prayers",
+          "description": "Optional prayers increase reward and nearness to Allah."
+        },
+        {
+          "title": "Salah Timings",
+          "description": "Prayers must be performed at their specified times."
+        },
+        {
+          "title": "Salat al-Tasbih",
+          "description": "A Sunnah prayer with great reward."
+        },
+        {
+          "title": "Taraweeh Prayer",
+          "description": "Night prayer in Ramadan as part of Qiyamul Layl."
+        },
+        {
+          "title": "Essential Surahs for Salah",
+          "description": "Surah Al-Fatiha is Fard, other Surahs are Sunnah."
+        },
+        {
+          "title": "Ending Salah",
+          "description": "Salah is concluded by saying Salaam."
         }
       ]
     },
     {
       "id": 5,
-      "category": "দোয়া ও যিকির",
+      "category": "Dua and Dhikr",
       "icon": "dua",
       "items": [
         {
-          "title": "দৈনন্দিন জীবনের দোয়া",
-          "description": "ঘুম, খাওয়া, সফরসহ প্রতিটি কাজের জন্য রাসূল ﷺ দোয়া শিখিয়েছেন।"
+          "title": "Daily Life Duas",
+          "description": "Prophet ﷺ taught supplications for sleeping, eating, traveling, and other activities."
         },
         {
-          "title": "সকাল ও সন্ধ্যার যিকির",
-          "description": "এই যিকিরগুলো পাঠ করলে আল্লাহর হেফাজতে থাকা যায়।"
+          "title": "Morning and Evening Dhikr",
+          "description": "Reciting these protects one under Allah's care."
+        },
+        {
+          "title": "Dua for Fasting",
+          "description": "Recited before starting and when breaking the fast."
+        },
+        {
+          "title": "Travel Dua",
+          "description": "Supplication for safety before traveling."
+        },
+        {
+          "title": "Importance of Dhikr",
+          "description": "Calms the heart and keeps one in remembrance of Allah."
+        },
+        {
+          "title": "Accepted Duas",
+          "description": "Duas offered with sincerity and Taqwa are quickly accepted."
+        },
+        {
+          "title": "Salat al-Hajah",
+          "description": "Prayer and supplication for urgent needs."
+        },
+        {
+          "title": "Masnoon Duas",
+          "description": "Supplications taught by the Prophet ﷺ as Sunnah."
+        },
+        {
+          "title": "Dua before Starting Work",
+          "description": "Supplication seeking Allah’s help before important tasks."
+        },
+        {
+          "title": "Dua at Time of Death",
+          "description": "Supplication and piety at the time of death."
         }
       ]
     },
     {
       "id": 6,
-      "category": "ইসলামিক ইতিহাস",
+      "category": "Islamic History",
       "icon": "history",
       "items": [
         {
-          "title": "নবী মুহাম্মদ ﷺ এর জীবনী",
-          "description": "তিনি ৫৭০ খ্রিস্টাব্দে মক্কায় জন্মগ্রহণ করেন এবং মানবতার জন্য রহমত ছিলেন।"
+          "title": "Biography of Prophet Muhammad ﷺ",
+          "description": "Born in 570 CE in Makkah, he was a mercy for mankind."
         },
         {
-          "title": "চার খলিফার পরিচয়",
-          "description": "আবু বকর, উমর, উসমান ও আলী (রাঃ) ইসলামের শ্রেষ্ঠ শাসক ছিলেন।"
+          "title": "The Four Caliphs",
+          "description": "Abu Bakr, Umar, Uthman, and Ali (RA) were exemplary rulers of Islam."
+        },
+        {
+          "title": "Importance of Hijrah",
+          "description": "Migration from Makkah to Madinah established the Islamic community."
+        },
+        {
+          "title": "Battle of Badr",
+          "description": "The first major military victory in Islamic history."
+        },
+        {
+          "title": "Unity of the Ummah",
+          "description": "Unity and cooperation are essential in Islamic history."
+        },
+        {
+          "title": "Achievements of Caliph Ali (RA)",
+          "description": "Justice and adherence to Islamic principles in governance."
+        },
+        {
+          "title": "Hijri Calendar",
+          "description": "Based on the Prophet’s ﷺ migration (Hijrah) from Makkah to Madinah."
+        },
+        {
+          "title": "History of Khilafat",
+          "description": "Leadership and reigns of the four rightly-guided Caliphs."
+        },
+        {
+          "title": "Spread of Islam",
+          "description": "Through the efforts of the Prophet ﷺ and Sahabah, Islam reached many lands."
+        },
+        {
+          "title": "History of Masjid al-Madina",
+          "description": "The first mosque established by the Prophet ﷺ."
         }
       ]
     },
     {
       "id": 7,
-      "category": "প্রশ্ন ও উত্তর",
+      "category": "Questions and Answers",
       "icon": "qa",
       "items": [
         {
-          "title": "গান শোনা কি হারাম?",
-          "description": "ইসলামী শরিয়তে বাদ্যযন্ত্রসহ গান শোনা অধিকাংশ আলেমের মতে হারাম।"
+          "title": "Is listening to music Haram?",
+          "description": "According to most scholars, listening to musical instruments and songs is Haram."
         },
         {
-          "title": "দাড়ি রাখা কি ফরজ?",
-          "description": "অনেক আলেমের মতে দাড়ি রাখা ওয়াজিব।"
+          "title": "Is keeping a beard obligatory?",
+          "description": "According to many scholars, keeping a beard is Wajib (required)."
+        },
+        {
+          "title": "Marriage age in Islam",
+          "description": "Marriage age depends on physical and mental maturity."
+        },
+        {
+          "title": "When is Jumu’ah prayer obligatory?",
+          "description": "Friday prayer is obligatory at the designated time."
+        },
+        {
+          "title": "How much Zakat to pay?",
+          "description": "2.5% of wealth exceeding the Nisab threshold annually is required."
+        },
+        {
+          "title": "Is fasting obligatory?",
+          "description": "Fasting is obligatory for those who are physically and mentally able."
+        },
+        {
+          "title": "Importance of good deeds",
+          "description": "Good deeds increase reward and earn Allah's pleasure."
+        },
+        {
+          "title": "Forgiveness of sins",
+          "description": "Allah forgives sins for those who sincerely repent."
+        },
+        {
+          "title": "Social responsibilities of Muslims",
+          "description": "Helping the poor, justice, and honesty are essential."
+        },
+        {
+          "title": "Following the Sunnah of the Prophet ﷺ",
+          "description": "Following the Prophet's ﷺ life increases worship and righteousness."
         }
       ]
     }
