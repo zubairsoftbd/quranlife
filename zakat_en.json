@@ -1,21 +1,333 @@
 [
   {
     "id": 1,
-    "category": "যাকাতের পরিচয়",
-    "title": "যাকাত কী",
-    "details": "যাকাত হলো ইসলামের তৃতীয় স্তম্ভ..."
+    "category": "Introduction to Zakat",
+    "title": "What is Zakat",
+    "details": "Zakat is the third pillar of Islam. It is a specific portion of a Muslim's earned wealth given to the poor and needy. It establishes justice, prosperity, and compassion in personal and social life."
   },
   {
     "id": 2,
-    "category": "যাকাত ফরজ হওয়ার শর্ত",
-    "title": "যাকাত কাদের উপর ফরজ",
-    "details": "১. মুসলমান হতে হবে..."
+    "category": "Conditions for Zakat",
+    "title": "Who is Obliged to Pay Zakat",
+    "details": "1. Must be a Muslim\n2. Must be free, healthy, and of full age\n3. Must possess wealth equal to or above the Nisab\n4. Wealth must remain stable for one lunar year (according to calculation)"
+  },
+  {
+    "id": 3,
+    "category": "Types of Zakat",
+    "title": "Types of Zakat",
+    "details": "Zakat is mainly of four types:\n1. Zakat al-Mal (on wealth)\n2. Zakat al-Fitr (given at the end of Ramadan)\n3. Zakat on crops and produce\n4. Zakat on livestock"
   },
   {
     "id": 4,
-    "category": "যাকাতের নিয়ত",
-    "title": "যাকাতের নিয়ত (আরবি)",
+    "category": "Zakat Rates",
+    "title": "Brief Description of Zakat Rates",
+    "details": "1. Gold and silver: 2.5% per year\n2. Business or profession income: 2.5%\n3. Crops: 5% (irrigated) or 10% (natural)\n4. Livestock: according to specified numbers"
+  },
+  {
+    "id": 5,
+    "category": "Intention of Zakat",
+    "title": "Intention for Zakat (Arabic)",
     "arabic": "نَوَيْتُ أَنْ أُخْرِجَ زَكَاةَ مَالِي فَرْضًا لِلَّهِ تَعَالَى",
-    "local": "আমি আল্লাহ তাআলার সন্তুষ্টির জন্য আমার সম্পদের ফরজ যাকাত আদায় করার নিয়ত করলাম"
+    "local": "I intend to pay the obligatory zakat of my wealth for the pleasure of Allah Almighty."
+  },
+  {
+    "id": 6,
+    "category": "Time for Zakat",
+    "title": "Time for Paying Zakat",
+    "details": "Zakat is usually given after one lunar year of possessing wealth. However, for crops, fruits, and other specific assets, it can be given immediately."
+  },
+  {
+    "id": 7,
+    "category": "Recipients of Zakat",
+    "title": "Who Should Receive Zakat",
+    "details": "According to the Quran, Zakat is allocated to eight types of people:\n1. The poor\n2. The needy\n3. Zakat collectors\n4. To soften hearts towards Islam\n5. To free slaves\n6. Those in debt\n7. In the way of Allah (such as for jihad or da'wah)\n8. For travelers in need"
+  },
+  {
+    "id": 8,
+    "category": "Rules of Giving Zakat",
+    "title": "How to Give Zakat",
+    "details": "Zakat should be given honestly and transparently, either directly to the recipient or through a trustworthy person. Any hidden wealth or deception does not count as Zakat."
+  },
+  {
+    "id": 9,
+    "category": "Zakatable Wealth",
+    "title": "Zakatable Wealth",
+    "details": "1. Gold, silver, and valuable assets\n2. Cash, bank balance, and investments\n3. Business assets\n4. Crops, livestock, income\n5. Earned income that meets the Nisab threshold"
+  },
+  {
+    "id": 10,
+    "category": "Purpose of Zakat",
+    "title": "Purpose of Zakat",
+    "details": "The main purpose of Zakat is to seek Allah's pleasure, reduce poverty in society, ensure proper distribution of wealth, and establish compassion and justice among Muslims."
+  },
+  {
+    "id": 11,
+    "category": "Calculating Zakat",
+    "title": "How to Calculate Zakat",
+    "details": "1. Determine the total wealth\n2. Compare with the Nisab (e.g., gold Nisab ≈ 85 grams)\n3. Calculate 2.5% at the prescribed rate\n4. Give Zakat to eligible recipients"
+  },
+  {
+    "id": 12,
+    "category": "Nisab",
+    "title": "What is Nisab and its Amount",
+    "details": "Nisab is the minimum amount of wealth at which Zakat becomes obligatory. For example, gold: 85 grams, silver: 595 grams. Cash and business assets are calculated accordingly."
+  },
+  {
+    "id": 13,
+    "category": "Consequences of Not Paying Zakat",
+    "title": "Consequences of Not Paying Zakat",
+    "details": "Not paying Zakat leads to the wrath of Allah and is a violation of religious duty. It also increases social injustice and poverty."
+  },
+  {
+    "id": 14,
+    "category": "Special Cases of Zakat",
+    "title": "Zakat on Crops and Livestock",
+    "details": "For crops, 5% of irrigated crops and 10% of natural crops must be given. For livestock, rates are according to the number of cows, sheep, camels, etc."
+  },
+  {
+    "id": 15,
+    "category": "Examples of Zakat",
+    "title": "Example of Paying Zakat",
+    "details": "If someone earns 100,000 BDT from business and meets the Nisab, they must pay 2.5%, i.e., 2,500 BDT as Zakat."
+  },
+  {
+    "id": 16,
+    "category": "Rules of Zakat",
+    "title": "Basic Rules of Zakat",
+    "details": "1. Wealth must be fully owned\n2. Wealth must remain stable for a certain period\n3. Zakat must be given to the recipient\n4. Hidden or deceptive wealth is not included"
+  },
+  {
+    "id": 17,
+    "category": "Lessons from Zakat",
+    "title": "Moral Lessons from Zakat",
+    "details": "Zakat teaches compassion, reduction of poverty, fair distribution of wealth, devotion to Allah, and social responsibility."
+  },
+  {
+    "id": 18,
+    "category": "Zakat vs Fitra",
+    "title": "Difference between Zakat and Fitra",
+    "details": "Zakat is obligatory on wealth and income, while Fitra is given at the end of Ramadan to the poor as food or cash."
+  },
+  {
+    "id": 19,
+    "category": "Precautions in Giving Zakat",
+    "title": "Precautions When Giving Zakat",
+    "details": "1. Ensure the recipient is eligible\n2. Calculate the correct amount\n3. Give with transparency and honesty"
+  },
+  {
+    "id": 20,
+    "category": "Benefits of Zakat",
+    "title": "Social and Psychological Benefits of Zakat",
+    "details": "Reduces poverty in society, ensures fair distribution of wealth, pleases Allah, and increases peace and contentment."
+  },
+  {
+    "id": 21,
+    "category": "History of Zakat",
+    "title": "History and Context of Zakat",
+    "details": "Zakat has been obligatory since the early days of Islam. It was practiced in the early Muslim society to ensure fair distribution of wealth and assistance to the poor."
+  },
+  {
+    "id": 22,
+    "category": "Bank and Cash Zakat",
+    "title": "Zakat on Bank Balance and Cash",
+    "details": "If the total of bank balance and cash reaches the Nisab, 2.5% Zakat must be given."
+  },
+  {
+    "id": 23,
+    "category": "Business Income",
+    "title": "Zakat on Business Income and Goods",
+    "details": "Calculate business income, goods, and equipment, and pay 2.5% according to Nisab. Fresh or natural products like crops have separate rates."
+  },
+  {
+    "id": 24,
+    "category": "Family Wealth",
+    "title": "Zakat on Joint Family Wealth",
+    "details": "If multiple family members have joint wealth, Zakat should be calculated and paid individually or collectively according to Nisab."
+  },
+  {
+    "id": 25,
+    "category": "Crop Zakat",
+    "title": "Zakat on Crops",
+    "details": "Irrigated crops: 5%, Natural crops: 10% according to Nisab. For example, for 100 kg of rice: irrigated 5 kg, natural 10 kg."
+  },
+  {
+    "id": 26,
+    "category": "Livestock Zakat",
+    "title": "Zakat on Livestock",
+    "details": "Cows, sheep, camels, and other animals must be given Zakat based on numbers. For example, 1 calf for 30–39 cows."
+  },
+  {
+    "id": 27,
+    "category": "Eligibility for Zakat",
+    "title": "Who is Eligible for Zakat",
+    "details": "Zakat is only for: the poor, the needy, those in debt, Zakat collectors, to soften hearts, to free slaves, in the way of Allah, and for travelers in need."
+  },
+  {
+    "id": 28,
+    "category": "Rules of Zakat",
+    "title": "Rules for Giving Zakat",
+    "details": "1. Wealth must be fully owned\n2. Give directly to the recipient\n3. Pay according to prescribed rates\n4. Hidden or deceptive wealth is not included"
+  },
+  {
+    "id": 29,
+    "category": "Zakat vs Fitra",
+    "title": "Difference between Zakat and Fitra",
+    "details": "Zakat is obligatory on wealth and income, while Fitra is given at the end of Ramadan as food or cash for the poor."
+  },
+  {
+    "id": 30,
+    "category": "Zakat Calculation",
+    "title": "Basic Formula for Zakat Calculation",
+    "details": "Add total cash, gold, silver, business, or crop value and compare with Nisab. If Nisab is met, calculate 2.5% or prescribed rate and pay."
+  },
+  {
+    "id": 31,
+    "category": "Zakat for Debtors",
+    "title": "Zakat for Those in Debt",
+    "details": "Zakat can be used to assist those in debt. If a person cannot be freed from debt, Zakat should be given to other eligible recipients."
+  },
+  {
+    "id": 32,
+    "category": "Ethical Principles of Zakat",
+    "title": "Moral Teachings of Zakat",
+    "details": "Zakat teaches compassion, honesty, justice, reduction of poverty, and devotion to Allah. It promotes equality in society."
+  },
+  {
+    "id": 33,
+    "category": "Benefits of Zakat",
+    "title": "Psychological and Social Benefits of Zakat",
+    "details": "1. Help the poor and needy\n2. Fair distribution of wealth\n3. Pleasing Allah\n4. Mental peace and satisfaction"
+  },
+  {
+    "id": 34,
+    "category": "Consequences of Not Paying Zakat",
+    "title": "Effects of Not Paying Zakat",
+    "details": "Not paying Zakat is a violation of religious duty. It may incur Allah's wrath and increase poverty and injustice in society."
+  },
+  {
+    "id": 35,
+    "category": "Principles of Zakat",
+    "title": "Core Principles of Zakat",
+    "details": "1. Fair distribution\n2. Honesty and transparency\n3. Compassion for the poor\n4. Devotion to Allah and moral values"
+  },
+  {
+    "id": 36,
+    "category": "Examples of Zakat",
+    "title": "Example of Cash Income",
+    "details": "If someone earns 50,000 BDT and meets the Nisab, they must pay 2.5%, i.e., 1,250 BDT as Zakat."
+  },
+  {
+    "id": 37,
+    "category": "Zakat on Gold and Silver",
+    "title": "Zakat on Gold and Silver",
+    "details": "1. Gold: 2.5% if 85 grams or more\n2. Silver: 2.5% if 595 grams or more"
+  },
+  {
+    "id": 38,
+    "category": "Business and Investment",
+    "title": "Zakat on Business Assets and Investments",
+    "details": "Calculate business income, assets, and stock, and pay 2.5% according to Nisab."
+  },
+  {
+    "id": 39,
+    "category": "Crop Rate Examples",
+    "title": "Crop Rates and Calculation",
+    "details": "If irrigated crops are 200 kg, Zakat is 5%, i.e., 10 kg. Natural crops: 10%, i.e., 20 kg."
+  },
+  {
+    "id": 40,
+    "category": "Livestock Examples",
+    "title": "Example of Zakat on Animals",
+    "details": "Example: 1 calf for 30–39 cows, 2 calves for 40–59 cows. Sheep and camels follow separate rates."
+  },
+  {
+    "id": 41,
+    "category": "Precautions in Zakat",
+    "title": "Precautions When Giving Zakat",
+    "details": "1. Ensure recipient is eligible\n2. Calculate correctly\n3. Give with transparency and honesty"
+  },
+  {
+    "id": 42,
+    "category": "Zakat Calculation Examples",
+    "title": "Example: Cash + Business Assets",
+    "details": "Person has 100,000 BDT cash + 50,000 BDT business assets = 150,000 BDT. If Nisab is met, 2.5% Zakat = 3,750 BDT."
+  },
+  {
+    "id": 43,
+    "category": "Moral Lessons from Zakat",
+    "title": "Ethical Lessons of Zakat",
+    "details": "Teaches compassion, honesty, justice, reduction of poverty, devotion to Allah, and social responsibility."
+  },
+  {
+    "id": 44,
+    "category": "Coordination of Zakat",
+    "title": "Proper Coordination of Zakat",
+    "details": "Combine personal wealth, business, bank balance, crops, and livestock to calculate Nisab correctly."
+  },
+  {
+    "id": 45,
+    "category": "Administration of Zakat",
+    "title": "Administrative Rules of Zakat",
+    "details": "If collected through government or charitable organizations, transparency and reliability are ensured."
+  },
+  {
+    "id": 46,
+    "category": "Social Impact of Zakat",
+    "title": "Social Effects of Zakat",
+    "details": "Zakat reduces poverty, ensures fair distribution of wealth, increases compassion, and establishes peace in society."
+  },
+  {
+    "id": 47,
+    "category": "Fitra and Zakat",
+    "title": "Similarities and Differences Between Fitra and Zakat",
+    "details": "Fitra is given at the end of Ramadan to the poor as food or cash. Zakat is mainly on wealth and income. Both reduce poverty and seek Allah's pleasure."
+  },
+  {
+    "id": 48,
+    "category": "Zakat vs Charity",
+    "title": "Difference Between Zakat and Voluntary Charity",
+    "details": "Zakat is obligatory and calculated according to rules, while charity is voluntary. Both contribute to compassion and reducing poverty."
+  },
+  {
+    "id": 49,
+    "category": "List of Zakat Recipients",
+    "title": "Detailed List of Zakat Recipients",
+    "details": "1. The poor (Fakir)\n2. The needy (Miskin)\n3. Zakat collectors\n4. To soften hearts\n5. To free slaves\n6. Those in debt\n7. In the way of Allah (jihad, da'wah)\n8. Assistance to travelers in need"
+  },
+  {
+    "id": 50,
+    "category": "Proper Use of Zakat",
+    "title": "Proper Utilization of Zakat",
+    "details": "Zakat must be given directly to recipients or through a trustworthy organization. Deception, hidden wealth, or unethical use is not allowed."
+  },
+  {
+    "id": 51,
+    "category": "Zakat and Investment",
+    "title": "Zakat on Investments",
+    "details": "Income from investments or stocks must be paid at 2.5% according to Nisab."
+  },
+  {
+    "id": 52,
+    "category": "Annual Zakat Renewal",
+    "title": "Yearly Zakat Calculation",
+    "details": "Recalculate assets each year. If Nisab is met, pay 2.5% or the prescribed rate again."
+  },
+  {
+    "id": 53,
+    "category": "Habit of Paying Zakat",
+    "title": "Regular Habit of Paying Zakat",
+    "details": "Paying Zakat annually at the prescribed time increases both wealth and morality."
+  },
+  {
+    "id": 54,
+    "category": "Important Zakat Rules",
+    "title": "Summary of Zakat Rules",
+    "details": "1. Nisab must be met\n2. Wealth must remain for one year\n3. Pay transparently\n4. Recipient must be eligible"
+  },
+  {
+    "id": 55,
+    "category": "Zakat Summary",
+    "title": "Zakat A-Z Summary",
+    "details": "Zakat is the third pillar of Islam, obligatory according to Nisab. It ensures wealth distribution, reduces poverty, pleases Allah, and promotes social justice."
   }
 ]
