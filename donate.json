@@ -1,13 +1,21 @@
 {
-  "monthly_target": 20000,
-  "monthly_cost": 15000,
-  "monthly_received": 8400,
-  "total_donors": 31,
-  "last_updated": "25 July 2026",
+  "header": {
+    "title": "Support Quran Life",
+    "subtitle": "আপনার ছোট্ট সহযোগিতা হাজারো মানুষের কাছে কুরআনের আলো পৌঁছে দিতে সাহায্য করবে।"
+  },
+
+  "statistics": {
+    "goal": 20000,
+    "cost": 15000,
+    "received": 8400,
+    "remaining": 11600,
+    "donors": 31,
+    "last_update": "25 July 2026"
+  },
 
   "payment": {
     "bkash": "01728430200",
     "rocket": "01728430200",
-    "bank": "Bank: 2050 008 02 00943700\nIslami Bank Bangladesh PLC"
+    "bank": "20500080200943700"
   }
 }
