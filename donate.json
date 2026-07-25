@@ -1,31 +1,13 @@
-[
-  {
-    "id": "1",
-    "title": "পেট ব্যথা",
-    "subtitle": "প্রাকৃতিক উপায়ে পেট ব্যথার চিকিৎসা",
-    "image_disease": "https://zubairsoft.com/allergy.png",
-    "image_plant": "https://zubairsoft.com/thumb1.jpg",
+{
+  "monthly_target": 20000,
+  "monthly_cost": 15000,
+  "monthly_received": 8400,
+  "total_donors": 31,
+  "last_updated": "25 July 2026",
 
-    "keywords": "পেট,পেট ব্যথা,গ্যাস,stomach,gas",
-
-    "benefits": "পেট ব্যথা কমায়,হজম শক্তি বাড়ায়,গ্যাস দূর করে",
-    "usage": "পুদিনা পাতার রস ১ চামচ মধুর সাথে দিনে ২ বার",
-    "warning": "অতিরিক্ত খাবেন না",
-    "tips": "পর্যাপ্ত পানি পান করুন"
-  },
-  
-  {
-    "id": "2",
-    "title": " ব্যথা",
-    "subtitle": "প্রাকৃতিক উপায়ে পেট ব্যথার চিকিৎসা",
-    "image_disease": "https://zubairsoft.com/allergy.png",
-    "image_plant": "https://zubairsoft.com/thumb1.jpg",
-
-    "keywords": "পেট,পেট ব্যথা,গ্যাস,stomach,gas",
-
-    "benefits": "পেট ব্যথা কমায়,হজম শক্তি বাড়ায়,গ্যাস দূর করে",
-    "usage": "পুদিনা পাতার রস ১ চামচ মধুর সাথে দিনে ২ বার",
-    "warning": "অতিরিক্ত খাবেন না",
-    "tips": "পর্যাপ্ত পানি পান করুন"
+  "payment": {
+    "bkash": "01728430200",
+    "rocket": "01728430200",
+    "bank": "Bank: 2050 008 02 00943700\nIslami Bank Bangladesh PLC"
   }
-]
+}
