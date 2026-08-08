@@ -2,6 +2,6 @@
 
 
 
-echo"NoAds";
+//echo"NoAds";
 
 ?>
