@@ -3,7 +3,6 @@
     "title": "Support Quran Life",
     "subtitle": "আপনার ছোট্ট সহযোগিতা হাজারো মানুষের কাছে কুরআনের আলো পৌঁছে দিতে সাহায্য করবে।"
   },
-
   "statistics": {
     "goal": 20000,
     "cost": 15000,
@@ -12,7 +11,16 @@
     "donors": 31,
     "last_update": "25 July 2026"
   },
-
+  "top_donors": [
+    { "name": "Abdullah Al Mamun", "amount": 2000, "phone": "01712345678" },
+    { "name": "Farhana Akter", "amount": 1500, "phone": "01898765432" },
+    { "name": "Md. Rakibul Islam", "amount": 1200, "phone": "01611122233" }
+  ],
+  "latest_donors": [
+    { "name": "Shariful Islam", "amount": 500, "phone": "01755566677" },
+    { "name": "Nusrat Jahan", "amount": 300, "phone": "01911122334" },
+    { "name": "Tanvir Ahmed", "amount": 250, "phone": "01633344455" }
+  ],
   "payment": {
     "bkash": "01728430200",
     "rocket": "01728430200",
